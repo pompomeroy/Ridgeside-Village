@@ -1,0 +1,71 @@
+{
+	"Introduction": "A new face. I see.#$b#Name's Jio. Better not ask too many questions.",
+
+//Day before Festivals	
+	"spring_12": "I'll hide like an egg tomorrow.$h",
+	"spring_23": "I'll be among the flowers.",
+	"summer_10": "I'll sneak in to taste the soup tomorrow, It better be good.",
+	"summer_27": "The beacons. It's the signal.$u#$b#Tomorrow night.. Hmm...",
+	"fall_15": "Don't bother looking for me tomorrow.",
+	"fall_26": "I can go undercover tomorrow.$h",
+	"winter_7": "It's hard to hide among the snow.",
+	"winter_14": "I get to meet some old friends tomorrow.$h",
+	"winter_24": "A holiday break tomorrow hm?#$b#Sound's neat.",
+
+//Days of the Week
+	"Mon": "Hm?#$e#You never saw me.",
+	"Tue": "%Jio is ignoring you",
+	"Wed": "Don't follow me.#$e#I'll slit your throat if you do.",
+	"Thu": "%Jio is ignoring you",
+	"Fri": "You don't see me. I'm just an illusion.",
+	"Sat": "%Jio is ignoring you",
+	"Sun": "Begone.#$e#Nosey boy.^Nosey girl",
+	
+	"Mon2": "Hm? You're here again.#$e#Don't follow me.",
+	"Tue2": "%Jio is ignoring you",
+	"Wed2": "Are you not busy?#$e#You seem to have a lot of time.",
+	"Thu2": "%Jio is ignoring you",
+	"Fri2": "Don't touch my stuff.#$e#Don't you dare.",
+	"Sat2": "%Jio is ignoring you",
+	"Sun2": "Come a bit more closer and I'll stab you.#$e#What did I just say?$a",
+	
+	"Mon4": "You never give up do you?#$e#Hm.",
+	"Tue4": "Uhrg.#$e#It's just a small wound.",
+	"Wed4": "Don't touch my stuff.#$e#They ain't for children.",
+	"Thu4": "%Jio is ignoring you",
+	"Fri4": "Don't follow me.#$e#I told you this multiple times already.",
+	"Sat4": "%Jio is ignoring you",
+	"Sun4": "Begone.#$e#Weirdo.",
+	
+	"Mon6": "I have some missions to do.#$e#Don't bother me.",
+	"Tue6": "Why are you here again?#$e#Don't stay here too long.",
+	"Wed6": "%Jio is ignoring you",
+	"Thu6": "Don't touch my weapons.#$e#Some may still have some blood in them.",
+	"Fri6": "Do you know Marlon? If you do go to him.#$e#Why? So you don't bother me.",
+	"Sat6": "%Jio is ignoring you",
+	"Sun6": "Don't you dare follow me.#$e#Unless you have a deathwish.",
+	
+	"Mon8": "Kiwi, come on.#$e#What?",
+	"Tue8": "Hm. You seem like a reasonable person.#$e#Hm.",
+	"Wed8": "I saw you exit the mines the other day with some loot.#$e#It seems you're capable of combat yourself.",
+	"Thu8": "I'm on a hurry for a mission.#$e#Why? Curious?",
+	"Fri8": "This job ain't for the weak.#$b#Why are you one?#$e#If you aren't you can consider joining up the Dusk Force. Our boss is not here though.",
+	"Sat8": "Beware of Denver, If you know him.#$e#Don't go out in the night.",
+	"Sun8": "Beware of Lunna, if you know her.#$e#She is not what she seems she is.",
+	
+	"Mon10": "On our way for a mission.#$e#Want to tag along?",
+	"Tue10": "You're a trustworthy person. I trust you won't tell anyone about what you saw.#$e#Let's not speak of this again.",
+	"Wed10": "*mumbles to himself* Speed.. I am speed.#$e#OH WAIT WHAT WHY ARE YOU HERE?$a",
+	"Thu10": "Beware of the old man who works at the water research facility.#$e#He's banished for a reason.",
+	"Fri10": "This land has an ominous secret.#$e#I can't tell you yet.#$e#For now I suggest you enjoy life as it is.",
+	"Sat10": "Don't go wandering off into the ridge at night.#$e#You might not like it.",
+	"Sun10": "I see dead people.#$e#I'm not kidding. It's both a blessing and a curse.",
+	
+//Seasonal
+	"spring_1": "Hm. It's getting calmer for now.",
+	"summer_1": "The entities are brewing.",
+	"fall_1": "The spirits are getting louder.",
+	"winter_1": "The dead are in silence.",
+	
+
+}

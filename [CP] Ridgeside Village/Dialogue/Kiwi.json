@@ -1,0 +1,70 @@
+{
+	"Introduction": "Kiwi does not know you.#$b#Kiwi thinks you're new here.#$b#Don't follow Kiwi.",
+
+//Day before Festivals	
+	"spring_12": "Town Egg Festival looks seems fun. Kiwi might sneak in.",
+	"spring_23": "Kiwi loves to look at human dancing tomorrow at the forest.$h",
+	"summer_10": "Does soup of tomorrow taste good?",
+	"summer_27": "Kiwi knows some of the jellyfishes tomorrow. They are good friends.",
+	"fall_15": "I wish to play with the humans tomorrow. But Kiwi missions come first.",
+	"fall_26": "Hmm, tomorrow?#$b#Kiwi might be there.",
+	"winter_7": "Kiwi does not know how to swim. But I would like to try and catch some fish too.",
+	"winter_14": "Kiwi has some good friends that visit tomorrow.",
+	"winter_24": "Kiwi wishes for more missions for new year.$h",
+
+//Days of the Week
+	"Mon": "Kiwi has some mission today.#$e#Don't follow Kiwi.$a",
+	"Tue": "%Kiwi is ignoring you",
+	"Wed": "Don't touch Kiwi.#$e#Unless you want your fingers sliced.",
+	"Thu": "%Kiwi is ignoring you",
+	"Fri": "Hup hup hup.#$e#What?",
+	"Sat": "Kiwi does not like you.#$e#Shoo",
+	"Sun": "%Kiwi is ignoring you",
+	
+	"Mon2": "Kiwi is annoyed.#$e#Shoo",
+	"Tue2": "%Kiwi is ignoring you",
+	"Wed2": "Swords and blades are Kiwi's favorite!$h#$e#Shoo",
+	"Thu2": "%Kiwi is ignoring you",
+	"Fri2": "Don't chase Kiwi.#$e#I hate it.",
+	"Sat2": "%Kiwi is ignoring you",
+	"Sun2": "Jio wait for Kiwi!#$e#Oof!",
+	
+	"Mon4": "Kiwi is busy.#$e#Shoo",
+	"Tue4": "%Kiwi is ignoring you",
+	"Wed4": "Can you catch up with Kiwi?#$e#No? Shoo",
+	"Thu4": "%Kiwi is ignoring you",
+	"Fri4": "Don't try to find Kiwi.#$e#Shoo",
+	"Sat4": "%Kiwi is ignoring you",
+	"Sun4": "Kiwi is not like other junimos.#$e#Shoo",
+	
+	"Mon6": "Kiwi seeing you more nowadays.#$e#Hmm?",
+	"Tue6": "Sharpening Kiwi's weapons are Kiwi's favorite past time.$h#$e#Don't touch them!$a",
+	"Wed6": "%Kiwi is ignoring you",
+	"Thu6": "You may be good person. Kiwi is still suspicious.#$e#Don't follow Kiwi.",
+	"Fri6": "%Kiwi is ignoring you",
+	"Sat6": "Some humans chase Kiwi.#$e#Kiwi hates it and finds it annoying.",
+	"Sun6": "Other junimos are fine but Kiwi does not like old life.$s#$e#Shoo.",
+	
+	"Mon8": "Kiwi like you.#$e#Shee!$h",
+	"Tue8": "Want to train with Kiwi?#$e#Hup hup!$h",
+	"Wed8": "Kiwi does not like to talk much.#$e#Kiwi would rather train.",
+	"Thu8": "Jio is a good friend. Jio has been a long time friend.#$e#Jio very sweet to Kiwi.$h",
+	"Fri8": "Kiwi like frontflips.#$e#Can friend frontflip?",
+	"Sat8": "Want some ninja training friend?#$e#If you do, talk to Kiwi and Jio's Boss. Boss not here though.",
+	"Sun8": "Kiwi has special weapons for junimo.#$e#Don't touch them, they are tiny.",
+	
+	"Mon10": "Kiwi make own weapons.#$e#It's a little hobby of Kiwi.",
+	"Tue10": "Kiwi thinks you're a good friend.#$e#Kiwi glad Kiwi met you.",
+	"Wed10": "Shee! Hup hup!$h#$e#Kiwi happy to see friend!.$l",
+	"Thu10": "Kiwi sometimes get scared in missions.#$e#Kiwi gets conforted by Jio. Jio good friend like you.",
+	"Fri10": "Kiwi was bad junimo. Kiwi didn't like old junimo life.#$e#Kiwi got banished.$s#$e#But Kiwi happy now.$h",
+	"Sat10": "Truth, Kiwi loves to play with the little humans.$h#$e#Kiwi happy.$l",
+	"Sun10": "Kiwi scared at ridge at night.$u#$e#But Kiwi has duty!$s#$e#Kiwi will do best!$h",
+	
+//Seasonal
+	"spring_1": "Kiwi like spring time. Kiwi camouflage better at spring.$h",
+	"summer_1": "Kiwi want to go to beach.#$b#Hup hup!$h",
+	"fall_1": "Kiwi like to swim in leaves!$h#$b#Shee!$h",
+	"winter_1": "Kiwi hate winter. Kiwi can't camouflage good.$a#$e#Shoo.",
+	
+}

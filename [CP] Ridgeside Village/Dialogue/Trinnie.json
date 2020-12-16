@@ -1,0 +1,71 @@
+{
+	"Introduction": "Hi mister!^Hello missy!#$b#Aren’t ya new here? You’re definitely a new face! My name’s Trinnie! T-R-I-N-N-I-E Trinnie, okay? Not Trina! But Trinnie, got that?",
+
+//Day before Festivals	
+	"spring_12": "I’m excited for tomorrow’s egg hunt!#$b#Want to have a race with me on who finds most eggs?#$b#After that I’m going to challenge Keahi to an egg throwing fight!",
+	"spring_23": "I’m excited to wear my dress tomorrow!$h#$b#Not to mention dancing with Vincent and Jas!#$b#Oh and of course Keahi!$l",
+	"summer_10": "Luau day! Soup day! Yumyum food are coming our way tomorrow!$h",
+	"summer_27": "Tomorrow my mom lets me stay up past my bedtime! YAY!$h#$e#We’re going to see migrating jellyfishes tomorrow my mom said!#$b#Uhm.. What does ‘migrating’ mean?",
+	"fall_15": "Me, Jaz, Keahi and Vincent are all going to be at the fair tomorrow. Are you gonna be there too?",
+	"fall_26": "What are you dressing up as for tomorrow??#$b#Me? I’m going to be a spygirl!",
+	"winter_7": "I want to make a snow sculpture of a penguin waddling!haha$h#$b#Snowmen are boring#$e#Hmm.. maybe Keahi and I could make an abominable snowman! That would be so cool!*jumps for joy*$h",
+	"winter_14": "I wish that there will be toys tomorrow at the night market!$h",
+	"winter_24": "Have a very fun Winter Star @!!$h#$b#Oh wait, it's tomorrow?",
+
+//Days of the Week
+	"Mon": "Hi @ wanna join us? We’re on our way to play tag in the forest.",
+	"Tue": "Hey Keahi and I are both bored. Can we play on your farm?#$b#Promise we’ll be good!! Please! Please!! Please!!!",
+	"Wed": "Jas and I love playing dress up!$h#$b#Do you think I’d look good as a cowgirl??",
+	"Thu": "What’s up with Yuuma these days? Do you know?#$b#He just stopped talking to us out of the blue$s#$b#Ugh how rude!$a",
+	"Fri": "Hello @! How have your crops been growing?#$b#My mom says I have the green thumb!$h#$b#But I’m a little confused… My fingers aren’t green!$u",
+	"Sat": "I’m finishing my chores so that I could play with Keahi!#$b#He’s the bestest friend anybody could have in the world!$l",
+	"Sun": "Keahi’s going crazy! He says he can hold his breath for a long time!#$b#But if you ask me I think he’s just going to pass out$h",
+	
+	"Mon2": "We’re running through the jungles! I’ve been running through the woods to get to you!!$h",
+	"Tue2": "Keahi had lots of fun when we had tea time the other day!#$b#Next on my agenda is to get him to dress up!",
+	"Wed2": "Keahi said he’d meet me here$a#$b#Where’s that boy! Tsk it isn’t like him to be late.",
+	"Thu2": "Hey @! Wanna hang out?",
+	"Fri2": "Keahi exhausted me yesterday!#$b#We chased rolling kiwis and played tag all day!$l",
+	"Sat2": "I’m grounded for today. $s#$b#My dad got mad with Keahi’s prank, daddy actually thought I did it so here I am at home.",
+	"Sun2": "OH NO!$u#$e#I forgot to water my crops today! ",
+	
+	"Mon4": "Hello Mister!^Hello Missy!#$e#How have you been? My mom’s been telling me that I need to have my siesta so that I grow big and tall!#$b#I don’t even know what that means$h",
+	"Tue4": "Keahi actually held my hand last night!$u#$b#While we were on our way home HE ACTUALLY HELD MY HAND!$u#$e#It actually felt… Nice$l",
+	"Wed4": "It was just so creepy! The doll looked like it was staring at us$u#$b#Vincent actually got so scared that he went home crying.",
+	"Thu4": "Can we play with you in your farm? Can we? Can we?? I promise we’ll be good!#$b#We’ll even help you pick up your crops and trash!",
+	"Fri4": "Hey you! Can you give some pointers with the crops?#$b#some of my crops were eaten by the crows.",
+	"Sat4": "A horse actually chased a dog on Marnie’s farm yesterday!$h#$b#It  was so hilarious",
+	"Sun4": "Keahi is a little too excited with that girl from the hotel.$a#$b#What’s her name again? Ughh…She’s stealing my best friend$s",
+	
+	"Mon6": "Have you seen that old lady Lola?#$b#She’s been kind of secrety lately, and always goes to her shed#$e#I wonder what she has in there?...Maybe it’s a creepy monster!$u#$b#Or a great big toy she doesn’t want to share!$u#$b#I’m going to try and find out soon!",
+	"Tue6": "Pika makes the best Pho soup$h#$b#I love going to their house because Keahi would try to cook his dad’s Pho for me.$h",
+	"Wed6": "Vincent said that he and Jas were going to town this morning. #$b#I’m going to their house and set up a skeleton prank in Vincent’s room hihihi$h",
+	"Thu6": "I went to the library earlier today, and I found a book about princesses!$h#$b#Hihi but if you ask me I’d rather be an amazing spy or or maybe a fairy!$h",
+	"Fri6": "Hello @$s#$b#*sigh* I got scolded by mother again$s#$b#I placed a face spider on Miss Lenny’s soup and she almost got a heart attack.$s#$b#Mom gave me a time ",
+	"Sat6": "Have you seen my doll? Her name is Thylane! I haven’t seen her since yesterday$s#$b#Jas and I were playing in the town square when we got called to help Dr. Harvey#$b#He said he’s got a patient who needs help.$s#$b#When I went back, Thylane wasn’t there anymore$s",
+	"Sun6": "Hahaha You should’ve seen Vincent kick Shane’s back!$h#$b#Hihi Keahi and I played a prank on him and it was a success!!$h",
+	
+	"Mon8": "Mr.Pika got mad at me and Keahi yesterday$s#$b#Jas also didn’t speak to us because of that$s#$e#But… I don’t know. I actually feel happy inside.#$b#Keahi hugged me when I cried last night hihi$l",
+	"Tue8": "Hey what’s up @! Can I go inside your house and watch tv? I haven’t watched a show in days!#$b#I’ve been busy with helping Keahi look for craft paper and flash powder.#$b#But he went and asked Maru for help instead of me$s.",
+	"Wed8": "I’m on my way to the beach to practice my cartwheels!#$b#Wanna come with me @?? It’s gonna be so much fun!#$b#I’ll even show you how to climb trees!$h",
+	"Thu8": "Why wouldn’t you let us play in your farm?$s#$b#I promise we’ll be good!",
+	"Fri8": "Hihihi I gave Keahi a gift!$l#$b#And he actually wanted to share it with me!$h#$e#I think I felt elephants stomping my stomach!$u#$b#It feels kinda funny. Hmm. What do you think that means?$l",
+	"Sat8": "My mom said that she’s proud of me!$h#$b#My little garden blossomed over time! I’m so happy I think I might share some of it with my friends!$h",
+	"Sun8": "Keahi got so exhausted last night!$h#$b#We had a sleepover and stayed up late last night!#$e#We talked about ghost stories and he got so scared he stuck so close to me my face felt so hot!$l",
+	
+	"Mon10": "I saw a junimo yesterday! It came close to me I actually thought I could touch it!$h#$b#I think junimos kinda look like puffballs! I would like to own one someday!#$b# Would you like one too @?",
+	"Tue10": "Have you tasted Pika’s pizza? It tastes just as good as Gus’#$b#Keahi’s also learning how to cook and he’s getting so good at it!#$e#I wonder when he’ll cook for me again$l",
+	"Wed10": "I see a bird!$h#$b#No, it’s a plane!$h#$b#Just kidding, it’s just me! I’m SUPER GIIIIIIRL!$h",
+	"Thu10": "Can you teach me how to dougie? Huh?? Can you? Can you??$h#$b#What? You don’t know what dougie is? Yikes you’re too old!",
+	"Fri10": "Are you okay here?#$b#Can I give you a helping hand? I’m really good at helping! My daddy says I’m the best helper in the world!$h",
+	"Sat10": "Thank you so much for always taking the time to play with me and my friends!$h#$b#You’re now a certified boogaloo*dances the boogaloo dance*",
+	"Sun10": "I wanna do a prank on Keahi!$h#$e#I’m thinking maybe the classic whoopee cushion prank? Hihi what do you think??$h",
+	
+//Seasonal
+	"spring_1": "Oh no.$u#$b#What’s Keahi up to again??*face slaps herself*",
+	"summer_1": "Omy gods Keahi just stop it. Hahaha you’re embarrassing yourself!$h*covers her face with her hands*",
+	"fall_1": "When is this verse gonna end Keahi?$h#$b#You’re vocal chords must be bleeding!$u",
+	"winter_1": "YOU GOT A FRIEEEEND!!$h#$b#Hahaha I believe if you can’t beat em’ you gotta join them!$h",
+
+	
+}

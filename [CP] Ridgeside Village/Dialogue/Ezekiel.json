@@ -1,0 +1,70 @@
+{
+	"Introduction": "Huh? Who are you supposed to be?#$b#Oh the new farmer? Well that's good that there's a new farmer, means more produce!#$b#I'm Ezekiel. Nice to meet you I suppose.",
+
+//Day before Festivals	
+	"spring_12": "Bahh, tomorrow everything's gonna smell up like eggs!$a#$b#Why even make a festival about eggs!",
+	"spring_23": "Every year, some teen boys looking all googly eyes all over my little girl when she's on a flower dance dress!#$b#When I get my hands on them tomorrow! Oh I swear!$a",
+	"summer_10": "That governor, coming to town just to eat. He doesn't know the real terrors of the outside world!#$b#He looking all fat and comfy like that! While I almost lost an arm out there!$a",
+	"summer_27": "Why bother going to a beach just to see some jellyfishes!$a#$b#What? They glow in the dark?#$b#Oh that's right. Helen used to love watching those glowing jellies. Yes sir.$h",
+	"fall_15": "A fair? Tomorrow?#$b#Bah! Why are there so much festivals!",
+	"fall_26": "What's the fuss around town with costumes and all? What's the ocassion tomorrow?#$b#Hmmm...",
+	"winter_7": "Fishing? I do love to do some fishing! I'll win tomorrow that's for sure!",
+	"winter_14": "Who will invade the beach tomorrow!?$a#$b#Oh! visit? Oh the night market!#$b#Why didn't you say so!",
+	"winter_24": "I look forward for the food tomorrow. The folks make good food.#$b#But I make better ones! I just don't want the snow to ruin em!",
+
+//Days of the Week
+	"Mon": "What?#$b#Oh, it's just you.",
+	"Tue": "*grumble* Lenny said I should take it easy. Hmph, I bet they know easy. They live an easy life!$a",
+	"Wed": "Hey you. Have you seen my daughter?#$e#Her name's Corine. you better stay away from her or else!^Her name's Corine. you better be friends with her or else!",
+	"Thu": "What's that? @? What now?#$e#*grumble*",
+	"Fri": "You look tough, But are you tough?#$e#I thought so.",
+	"Sat": "You kids have it easy! You don't know real hardships!#$e#*grumble*",
+	"Sun": "What do you want?#$e#Hm?",
+	
+	"Mon2": "Stop pestering me. What do you want anyway?#$e#*grumble*",
+	"Tue2": "Have you tasted bean soup?#$e#What do you mean you haven't? You should!$a",
+	"Wed2": "That museum at town has nothing compared to my collection!#$e#Wait, I haven't visited them yet.",
+	"Thu2": "Doctor Harvey is a swell guy. I have high respect for him.#$e#He is also a little cowardly, so I like how he does not look at my daughter so fondly.",
+	"Fri2": "That Pierre guy in town is so loud! Make him shutup.#$e#What do you mean I'm loud? You're loud!$a",
+	"Sat2": "What do you want now? Huh?#$e#How am I? Oh just fine.",
+	"Sun2": "*grumbles*#$e#What??",
+	
+	"Mon4": "Hey kid, have you visted the mines?#$e#That takes guts to do that. I give some respect to you.",
+	"Tue4": "You're here again?$a#$e#What do you want now?",
+	"Wed4": "Hm? Oh you're here. I have something to ask.#$e#How do you manage a big farm? I plan to maybe buy one someday.#$e#Corine says no though, something about me being too old.",
+	"Thu4": "Hm? You're here again. Hello.#$e#@? was it? That's a decent name I suppose.",
+	"Fri4": "When I was a cook at the army, we had to cook in a very tight schedule!#$b#Now people are just doing it for fun! They have it easy!",
+	"Sat4": "Corine and her mom, Helen, look closely the same. That's why I keep close watch because I..#$b#Wait, Why am I telling you this!$a#$b#Scram!",
+	"Sun4": "Do you know Andy? No?#$e#What? Oh him? He's just a farmer I know.",
+	
+	"Mon6": "What? You're here again?#$e#Well, it's fine. I need some help too. I want to ask, how much do strawberries sell?#$b#Oh? That much? Hmm I think I'll take up strawberry farming...",
+	"Tue6": "Met this strange Aguar professor at the restaurant today. Swell guy.#$e#He talked about water and magic. He has some great fairy tales! It was entertaining!$h",
+	"Wed6": "Hey @. You seem to have lots of free time.#$e#Hmm you kids sure do have it easy.",
+	"Thu6": "If you ever get the chance to visit the restaurant, keep an eye on Corine for me would ya?#$e#You also keep an eye yourself!",
+	"Fri6": "What's this talk about a kiwi fruit rolling around the valley?#$e#I'm serious, I haven't seen one!$a",
+	"Sat6": "Hm? Hey there @. What brings you here?#$e#It better be not because of my daugher!",
+	"Sun6": "You seem trustable @... But not yet.. Hmmm.#$e#Yes. Not yet.",
+	
+	"Mon8": "I trust you @. You're a good kid.#$e#But don't get weird ideas about my daughter!$a",
+	"Tue8": "I finally saw the rolling kiwi! There! It's right behind you!#$e#Wait. What do you mean that's a rock?$u#$e#*grumble*",
+	"Wed8": "Have some time to chat @, I like your company.#$e#I want to tell you about the time I was called on duty to the battlefield. I thought all I had to do in the army was cook.#$b#I was afraid. I was petrified! Thinking I would never live back to tell the tale!#$b#But bless me Yoba I lived! I got to see my little girl again!$h#e#All I'm saying is, don't take life for granted now you hear?",
+	"Thu8": "When I left for the army, My old buddy Richard took care of little Corine when I was gone.#$e#I owe that man big time. He is a very respectable man.",
+	"Fri8": "I visited the town yesterday with my daughter. Saw your farm and I gotta tell you, I'm impressed.#$e#You're doing a decent job @. Great work.$h",
+	"Sat8": "AHRG!$u#$e#@? Don't scare me like that! You're going to give this old man a heart attack!$a#$e#Anyway, how are you? Good? That's nice.",
+	"Sun8": "I remember when I was young, playing around the ridge.#$e#Oh fun old memories. I used to have it easy.",
+	
+	"Mon10": "Hey there @. I'm glad to see you. Come and take some time to chat would ya?#$e#Hey! sneak me out sometime would ya? Let's get a drink! Corine won't let me get a drink!",
+	"Tue10": "You're a swell fella @. I respect you.#$e#That is hard to achieve you know. You better cherish it!$a",
+	"Wed10": "I would not mind if you make advances to my daughter. I trust you.#$e#You're the only one I'd trust to her you know!$h",
+	"Thu10": "Saw some cows over down the south side of the ridge.#$e#What? What do you mean there's a farm there? There wasn't before!$a",
+	"Fri10": "Corine and I fixed up my collection earlier.#$b#I found some extra stuff lying around, maybe you can make use of these. here. [ 334 ]",
+	"Sat10": "Hm? Oh @! Good to see you!#$e#Have I told you about the time I had to wrestle a wild boar just to bring back meat ingredients to my squad back at the platoon?#$e#We just came back from a mission! We all wanted a good meal! So I went out and just found a boar!#$e#Find me a boar and I'll show ya!$h#$e#What do you mean there are no boars here?$a",
+	"Sun10": "Oh bless me Yoba, I saw a wizard yesterday!#$e#He was wearing an all purple robe. He looked weird and funny looking too.#$e#He just looked at me and then nodded. Such a weird fella.",
+	
+//Seasonal
+	"spring_1": "What? It's the spring season? Bah! What do I care.#$b#Back in my day, the spring meant there is... Uhmm#$b#What was I talking about again?",
+	"summer_1": "Why is it so hot! Who turned on the heater!?$a#$e#What do you mean it's the summer season?",
+	"fall_1": "Who's throwing all these leaves around! If I catch Oh I swear!$a",
+	"winter_1": "I hate this season, too cold.#$b#My food gets cold too fast. Bring back the summer!$a",
+	
+}

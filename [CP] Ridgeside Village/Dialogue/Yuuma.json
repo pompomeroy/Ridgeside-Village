@@ -1,0 +1,70 @@
+{
+	"Introduction": "Hello? Uhm. I don't know you.#$b#Oh. You're the new farmer. Uhmm. Nice to meet you. I'm Yuuma.#$b#Well. Bye now.",
+
+//Day before Festivals	
+	"spring_12": "Oh, it's the Egg Festival tomorrow.#$b#That's nice I guess.$s",
+	"spring_23": "I remember Mommy and Daddy dancing in the forest..#$b#Sorry..$s",
+	"summer_10": "Please bring something good tomorrow.#$b#I wish to have a good tasting soup.",
+	"summer_27": "Big brother is too excited for tomorrow. I should remind him to control himself.#$b#Hmm..$s",
+	"fall_15": "The fair's tomorrow? Oh!#$b#Uhmm.. That's glad to hear.$s",
+	"fall_26": "Tomorrow's the Spirit Eve? Oh!$u#$b#I mean...$h#$b#Oh sorry! I got too excited.",
+	"winter_7": "I remember big brother and I used to fish a lot near the waterfalls.$h#$b#Hmm..$s",
+	"winter_14": "I wonder where the merchants come from?",
+	"winter_24": "If you have me as your secret person. Please give me something practical. Thank you.",
+
+//Days of the Week
+	"Mon": "Hm.#$e#Sorry I have so much to do today.",
+	"Tue": "Hello @.#$e#I'm sorry I have to do something.",
+	"Wed": "How much are the parnsips again?$s#$e#I'm not sure, I'm worried I may have not bought enough money.$s",
+	"Thu": "I saw Jas and Vincent play in the town earlier.#$e#Hmm..$s",
+	"Fri": "I passed by your farm earlier.#$e#Pretty big.",
+	"Sat": "Hmm..$s#$e#Oh nothing.",
+	"Sun": "Im sorry but I'm busy.#$e#Excuse me.",
+	
+	"Mon2": "I saw Trinnie and Keahi play near the forest earlier..#$e#It's no big deal..$s",
+	"Tue2": "Miss Penny is such a good teacher. I get to learn a lot.#$e#I have just a day to spare for school though.",
+	"Wed2": "Hi.#$e#I gotta go now. Bye.",
+	"Thu2": "Big brother can't get tired. Please remember that.#$e#Excuse me.",
+	"Fri2": "Mr. Philip is really nice. He's been a good help to big brother.$h#$e#Excuse me.",
+	"Sat2": "Can I ask uhmm..#$e#Nevermind..$s",
+	"Sun2": "I saw Vincent and Keahi play catch earlier.$h#$e#I.. I.. uhmm.. nevermind.$s",
+	
+	"Mon4": "One two three four..#$e#Oh hello @. I'm just counting my steps. It's fun.",
+	"Tue4": "Big brother told me he's cooking Miso Soup later!$h#$e#I just hope he won't get too tired making them.",
+	"Wed4": "I visit Doctor Harvey to buy medicine for big brother.#$e#Doctor Harvey's a good person, he helps us a lot.",
+	"Thu4": "Big brother likes the cold. I asked Mr. Kenneth about how an airconditioner.#$e#It was expensive though. Maybe soon.",
+	"Fri4": "We live off my big brother's service checks.#$e#I add up to that by working odd jobs. But people say employing minors may be punishable. So I get small errands instead.#$e#I don't mind.",
+	"Sat4": "Oh.. Hi @..#$e#I miss Mommy and Daddy...$s",
+	"Sun4": "I want to swing in the swings with Big brother.#$e#Maybe someday.",
+	
+	"Mon6": "I saw Jas and Trinnie hiding in the forest the other day. I think they were playing hide and seek.#$e#I... I miss playing those games..$s",
+	"Tue6": "I visit Miss Lenny sometimes to help. I owe her a lot.#$e#She took care of me when brother was on duty.",
+	"Wed6": "I study some lessons in advance so that I can catch up with Miss Penny's teachings.#$e#I also don't talk with other kids much..$s",
+	"Thu6": "Hello @. How are you.#$e#Sorry I'm in a hurry.",
+	"Fri6": "I.. I miss Mommy..$s#$e#Mommy... please come home..$s",
+	"Sat6": "Hey there @. I can't talk now.#$e#Sorry! Bye now.",
+	"Sun6": "I try to learn as much from Mr. Philip whenever he visits.#$e#I want to be like him in the future.$h",
+	
+	"Mon8": "Hi @. Can I ask you something?#$e#Am I a weird kid?#$e#Sorry. It just crossed my mind.$s",
+	"Tue8": "Big brother has been feeling better nowadays.#$e#I'm glad.$h",
+	"Wed8": "You're a really good person and friend @.#$e#Thank you thank you thank you!$h",
+	"Thu8": "Can we play the swings later @? Brother said it's fine.$h#$e#You will! Yey! Thank you!$h",
+	"Fri8": "I played with Trinnie and Keahi earlier. I'm happy.$h#$e#I'm really really happy!$h",
+	"Sat8": "Pika makes really good food. Big brother and I always buy some for take outs.#$e#Brother get's shy on going out in public though. I usually buy the food alone.",
+	"Sun8": "I got to play with Vincent and Jas today.!$h#$e#I'm so happy!$h",
+	
+	"Mon10": "@! I'm happy you're here!$h#$e#Can we play later? Brother said it's fine.$h",
+	"Tue10": "Keahi came by the other day! He's been really opening up to me now.#$e#I'm so happy!$h",
+	"Wed10": "Big brother and I fixed up Mommy and Daddy's room yesterday.#$e#We still hope they come home one day.$h",
+	"Thu10": "Big brother woke up with a great pain in his chest earlier morning.$s#$e#I think maybe he overworked yesterday. I should have looked after him. I'm sorry!$4",
+	"Fri10": "Hey @. What is a prank?#$e#Keahi and Trinnie said they do it often. Big brother told me not to do pranks though.#$e#I'm confused.$s",
+	"Sat10": "Miss Flor is really pretty. I always like it when she talks about the social behaviors of people.#$e#She's really nice.$h",
+	"Sun10": "Hello @!! I'm happy you're here!$h#$e#Can we play later? After I take care of Big brother.$h",
+	
+//Seasonal
+	"spring_1": "It's a new year!$h#$e#I hope it's a good one.",
+	"summer_1": "I have to prepare lots of cold water for brother this season.$s",
+	"fall_1": "Brother wakes up early to rake some leaves outside!$a#$e#I worry he forgets about his health.$s",
+	"winter_1": "I'm glad Big brother feels at ease during this season.$h",
+	
+}

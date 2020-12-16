@@ -1,0 +1,70 @@
+{
+	"Introduction": "Howdy there fella! You're new here aren't you?$h#$b#Name's Bert! My family and I live in the south side of Ridgeside Village.#$b#Welcome to the valley!$h",
+
+//Day before Festivals	
+	"spring_12": "I look forward for tomorrow, how about you?$h#$e#With the Egg Festival around, I'm sure there's going to be some good good!",
+	"spring_23": "I better practice my dancin today.#$b#The missus might make a fuss if I don't get the steps right tomorrow!",
+	"summer_10": "Bring something good for tomorrow ya here!$h#$e#Man! I can't wait to show up our niece's crops!$h",
+	"summer_27": "I bought a little gift to give the missus tomorrow to add up to the romantic atmosphere.#$e#Don't tell your Miss Olga now! It's gon be a surprise.$h",
+	"fall_15": "The spirit of old competition! Ah! I feel us farmers going serious now! Goodluck tomorrow @!$h",
+	"fall_26": "Oh yeah! I can't wait to eat some pumpkin pie tomorrow!#$e#Mrs. Evelyn from the town sure does make a killer pie!$h",
+	"winter_7": "If you wanna win tomorrow, You gotta be fast, alert!#$b#Wrangler 'em fishes the moment you feel the slightest hint you got 'em hooked!",
+	"winter_14": "I do wonder where do these merchants come from. You know, the ones who will visit tomorrow?#$b#I better ask 'em my self.$h",
+	"winter_24": "I saved just enough to buy Trinnie that gosh darn doll house.#$b#I tell ya, It can be quite expensive to please the girl sometimes, but all's worth it just seeing my little princess smile.$h",
+
+//Days of the Week
+	"Mon": "Howdy.#$e#Whatchu up to today?",
+	"Tue": "Hmm.. I better check with Pierce if has those new brand of fertilizer on sale.#$e#The crops have been growing kind of slow or something.",
+	"Wed": "Hey there farmer! How's the farm?#$e#Better take care now!$h",
+	"Thu": "Pika sure does cook a mean pasta! He know a lot of different cuisine!#$e#His little boy knows how to cook as well! I better tell Trinnie to start learning too.",
+	"Fri": "Hey, if you ever see my cousin Caroline at the Town, tell her I said hi.#$e#It's been so long since we talked since my family moved here!$h",
+	"Sat": "Oh hey there!#$e#Didn't see you, pardon me.",
+	"Sun": "Oh? Hi there. Do you forage?#$e#You can get some small income just with forages you know.",
+	
+	"Mon2": "Alissa's my wife's niece. She moved here some time before the family moved in.#$e#She's a good kid, sings to herself most of the time.",
+	"Tue2": "GOSH DARN THAT TRINNIE AND KEAHI! Where are they?!$a#$e#They ruined my favorite pants! They put a fruit under the pillow of my lawnchair!$a",
+	"Wed2": "I admire that carpenter that lives in town! She has some fine craftsmanship!#$e#Her name's Robin you say? Well I better go show her my respect the next time we meet.$h",
+	"Thu2": "Hey there @. You doing good this fine day?#$e#You take care of yourself now!",
+	"Fri2": "The missus and I sometimes fight and it really is a hassle I tell ya.$s#$e#But nothing a good old sweet gesture to bring her mood back to the good!$h",
+	"Sat2": "Hmmm I wonder what can I do today?#$e#Any suggestions @?",
+	"Sun2": "How's the farm?#$e#Doing good I hope! Better make good produce you hear?$h",
+	
+	"Mon4": "Howdy @! Hope you have a good day!#$e#I gotta say, I'm quite impressed with your work so far! Managing a farm by yourself!",
+	"Tue4": "Oh boy oh boy. I heard some weird sounds by the ridge last night when I was going home from town.#$e#It sounded like there were some fighting going on!",
+	"Wed4": "I saw this guy by the mountain lake yesterday. He seems like a good fellow. Shame that some kid vandalized his tent.#$e#Poor guy, Wanted to help him but maybe he'd find me as an enemy.$s",
+	"Thu4": "Lewis is an old friend of mine. He was like a big brother to me when we were kids.#$e#Haven't seen him for years when my family moved out of the valley. I'm glad I saw him again.",
+	"Fri4": "Hey have you met Lenny? This village's chief or community leader if you will.#$e#She works under her brother the mayor. She's the total opposite of her brother by the way!",
+	"Sat4": "I saw a rolling kiwi fruit by the ridge yesterday.$u#$e#Must have been my imagination.",
+	"Sun4": "Hey there @. Done with your farm work I suppose?$h#$e#It's nice to take a break from time to time.",
+	
+	"Mon6": "Hi @! Good to see you!#$e#If you have time to chat, You're welcome here anytime.",
+	"Tue6": "I saw Clint the other day having them googly eyes over that girl Emily by the bar.#$e#Poor guy, Doesn't seem to know how to convey his feelings.",
+	"Wed6": "That little boy Keahi once cooked a sample in our house when he came over to visit Trinnie when she was sick.#$e#He's gonna be a fine good cook I tell ya!$h",
+	"Thu6": "I recall, There was this other boy in this valley that doesn't seem to play much with the other kids.#$e#He and his brother live at the northeast side of the village.",
+	"Fri6": "If you ever build a mill by your farm, Tell me if you need any help alright?#$e#I can teach you a thing or two!$h",
+	"Sat6": "Howdy there @!#$e#Your company's welcome here my friend.",
+	"Sun6": "Oh nice seeing you @. How's the farm?#$e#Might come and visit someday. I do like to roam around the valley.$h",
+	
+	"Mon8": "You've been such a good fella @. To me and my family. I thank you.#$e#If ya ever need help, I'll be here partner!$h",
+	"Tue8": "My wife and I hear Alissa sing her songs to herself sometimes.#$e#That girl has such a beautiful voice I tell you! She seems to be shy about it though for some reason?",
+	"Wed8": "Yesterday, Jas and Vincent visited along with Keahi! There were four kids inside this house yesterday!#$e#Man oh man, It was such a bad timing too! I was the only adult in the house so I had to look after 4 of em!#$e#Good thing Jas was a quiet girl, But that Vincent! He was running all over the place!",
+	"Thu8": "The missus and I have our own little date to do sometimes. It involves Alissa's singing and hiding.#$e#Our niece does not want her songs to be heard correct? But gosh darn they are so amazing to listen to!#$b#So some nights when Trinnie's asleep. My wife and I would hang out around the farm and just look at the stars.#$b#Then, occasionally, we hear Alissa singing. And do I tell you, It's such an amazing combination!",
+	"Fri8": "UHG! That Pierre!$a#$e#Sorry @. My temper got the best of me. My cousin told me they had a big fight again. But this time it's about their daughter Abigail.#$e#He says that maybe she's not her daughter or something! How dare he accuse my cousin of a cheater.$a",
+	"Sat8": "Hey there @! How are ya?#$e#Want to get a beer and hang around the Saloon? That sounds like a nice time for good friends amiright?$h",
+	"Sun8": "Have you ever bought stuff from that boy Jeric at the north west of town?#$e#He sells some quality crops I tell you! Real good lad I tell ya!.",
+	
+	"Mon10": "Hi there @! How are ya?#$e#You curious about our old life at the city? Well I'm glad to tell ya friend.#$b#My wife was an accountant while I was a mechanic.#$b#Life wasn't really grand but it was managable.#$e#The moment Trinnie was born, we taught the city was not our dream place to raise our kid.#$b#Fortunately, There was an open land here and so we bought it!#$e#My wife and I are happier here!$h",
+	"Tue10": "I'll go head over to Pika's later. Join me there if you want @! Let's have a drink!$h",
+	"Wed10": "You been an amazing friend @! Here, have some seeds to help you in your farm. [ 770 ] $h",
+	"Thu10": "You're one fine lad @. You can be a good role model for the kids!^You're one great lass @. You can be a good role model for the kids!#$e#Glad I have a good friend like you!$h",
+	"Fri10": "I went by the town yesterday and had a glimpse of your farm. You are doing some amazing work!#$e#Great job @! I'm really amazed by you!",
+	"Sat10": "Lewis and I lost track of time talking about the past yesterday! The missus was not happy that I forgot to cook lunch!$h#$e#Oh how I miss being young! To have all the time in the world I say is such a blessing one would really miss.",
+	"Sun10": "Lenny and Lewis always fought when they were kids. Man, There was one time where I was at their house when they did.#$e#It was such an awkward moment I tell ya! Just a small kid listening to his two older friends bicker and can do only nothing. I was lost!$h#$e#Oh such fun times I tell ya.",
+	
+//Seasonal
+	"spring_1": "Ah the cold's finally done! Back to work amiright fellow farmer?$h",
+	"summer_1": "Oh boy! It's a hot day today!#$b#What? It's the summer season already! Oh my I didn't notice!$h",
+	"fall_1": "I better clean the porch. All them leaves are piling up and it aint a pretty sight when it's too much.",
+	"winter_1": "Trinnie has been urging me to build a snowman with her!#$b#I would love to, but I don't really like the cold.$h",
+	
+}
