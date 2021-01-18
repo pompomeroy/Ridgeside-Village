@@ -237,12 +237,6 @@
 		
 		//Unlocking Greenhouse1 (Letter)
 			"75160173/H/e 75160089/r 0.3/x GH1Letter": "null",
-		
-		//Ridgeside Gathering Invitation (Letter)
-			"75160183/z spring summer winter/u 19/x GatheringInvitation": "null",
-		
-		//Ember of Resolutions invitaion (Letter)
-			"75160184/z spring summer fall/u 27/x EmberNightInvitation": "null",
 		},
 	},
 	
@@ -693,6 +687,26 @@
 			"75160190/w sunny/H/e 75160189": "SettlingIn/69 18/farmer 70 20 0 Lenny 68 20 0 Robin 69 16 0 Ian 70 16 0 Clint 67 16 1/pause 500/move farmer 0 -1 0 true/move Lenny 0 -1 0 true/emote Robin 56/pause 500/emote Ian 28/emote Clint 56/speak Robin \"I think it's done!$h#$b#Good job everyone!$h\"/speak Ian \"Woah, that was hard!$h\"/faceDirection Clint 2/speak Clint \"Hi there Lenny and @.#$b#We just finished restoring the old minecart system of the ridge!$h\"/faceDirection Robin 2/faceDirection Ian 2/emote Lenny 56/speak Lenny \"My oh my! That sounds great!$h\"/move Robin 0 1 2/speak Robin \"Well it wouldn't have been possible without @'s supplies!#$b#Great job @$h\"/emote farmer 32/speak Robin \"And Lenny, We've also fixed up the other minecart over by the Nightingale Orchard#$b#Apparently there was a route connecting there too.\"/speak Lenny \"Well that's fantastic news!#$b#It's even easier to get around the wide village now.$h#$b#Thank you so much Robin, Clint, and Ian.$h\"/emote Clint 32/speak Clint \"No problem Lenny.#$b#I'm glad that this is fixed as well.#$b#I can finally visit Pika's Restaurant often.$h\"/speak Ian \"And maybe I can run errands much faster now.$h\"/speak Lenny \"I sure do hope this minecart can help everyone.$4#$b#Well, Thank you again, to all of you!$h\"/emote farmer 32/pause 1000/end",
 		},
 		"When": { "HasConversationTopic: hostPlayer": "RSV_startminecartfix" }
+	},
+	{
+		"LogName": "Farm Events",
+		"Action": "EditData",
+		"Target": "Data/Events/Farm",
+		"Entries": {		
+		//Ridgeside Gathering Invitation (Letter)
+			"75160183/x GatheringInvitation": "null",
+		},
+		"When": { "Season": "Fall", "Day": 19 },
+	},
+	{
+		"LogName": "Farm Events",
+		"Action": "EditData",
+		"Target": "Data/Events/Farm",
+		"Entries": {				
+		//Ember of Resolutions invitaion (Letter)
+			"75160184/x EmberNightInvitation": "null",
+		},
+		"When": { "Season": "Winter", "Day": 27 },
 	},
 	
 ]
