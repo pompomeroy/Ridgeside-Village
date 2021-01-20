@@ -925,7 +925,7 @@
           "EndTime": 2600,
           "MinimumTimeBetweenSpawns": 10,
           "MaximumSimultaneousSpawns": 100,
-          "OnlySpawnIfAPlayerIsPresent": false,
+          "OnlySpawnIfAPlayerIsPresent": true,
           "SpawnSound": ""
         },
         "ExtraConditions": {
@@ -1044,7 +1044,7 @@
           "EndTime": 2600,
           "MinimumTimeBetweenSpawns": 10,
           "MaximumSimultaneousSpawns": 110,
-          "OnlySpawnIfAPlayerIsPresent": false,
+          "OnlySpawnIfAPlayerIsPresent": true,
           "SpawnSound": ""
         },
         "ExtraConditions": {
@@ -1163,7 +1163,7 @@
           "EndTime": 2600,
           "MinimumTimeBetweenSpawns": 10,
           "MaximumSimultaneousSpawns": 120,
-          "OnlySpawnIfAPlayerIsPresent": false,
+          "OnlySpawnIfAPlayerIsPresent": true,
           "SpawnSound": ""
         },
         "ExtraConditions": {
@@ -1282,7 +1282,7 @@
           "EndTime": 2600,
           "MinimumTimeBetweenSpawns": 10,
           "MaximumSimultaneousSpawns": 130,
-          "OnlySpawnIfAPlayerIsPresent": false,
+          "OnlySpawnIfAPlayerIsPresent": true,
           "SpawnSound": ""
         },
         "ExtraConditions": {
