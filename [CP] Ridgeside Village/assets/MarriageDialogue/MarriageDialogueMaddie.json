@@ -37,7 +37,7 @@
 "Rainy_Day_2": "What would you like me to order at Pika's tonight?#$b#I can handle any soup you'd like just not clam chowder please.$6",
 "Rainy_Day_3": "Hey love, can you give me a warm hug before we go to work?$l",
 "Rainy_Day_4": "Have you decided on what you'd like to eat for later?#$b#I think I can stop by Blooming Hill Farm before I go home.",
-"Rainy_Day_Spouse": "Babe, can you make some hot cocoa for me. I feel cold brr…$l",
+"Rainy_Day_Spouse": "Babe, can you make some hot cocoa for me. I feel cold brr...$l",
 
 ///Rainy Night
 "Rainy_Night_0": "Mr. Aguar actually seemed happy today.$l#$b#I seldom see him smiling. I guess he must've remembered something good.$h",
@@ -45,7 +45,7 @@
 "Rainy_Night_2": "It was a great day at the facility.$h#$b#Mr. Aguar said that we're close to having a breakthrough! Ahhh I'm so happy!$h",
 "Rainy_Night_3": "I still feel so cold babe. I think I might have a fever coming on.$s#$b#Can you please heat up some soup for me please?$l",
 "Rainy_Night_4": "Hey hottie! Missed me?$6",
-"Rainy_Night_5": "Rainy nights are for ‘you and me' time babe!$6#$b#Could you make time for us right now?$l#$e#I was thinking maybe… Dinner and game night???$h",
+"Rainy_Night_5": "Rainy nights are for 'you and me' time babe!$6#$b#Could you make time for us right now?$l#$e#I was thinking maybe... Dinner and game night???$h",
 "Rainy_Night_Spouse": "Raiiiiiin! Oh I love the rain! I guess I'm really such a water baby haha!$h",
 
 ///Indoor Day
@@ -89,8 +89,8 @@
 
 //Two kids
 "TwoKids_0": "Oh Yoba! Babe!! You wouldn't believe how much %kid1 and %kid2 ate for breakfast!$u#$e#We better get some more chickens to keep up with how many eggs they eat in a week!$u",
-"TwoKids_1": "It's going to be bathtime soon for these two…#$b#You'll help me wrangle them, right? Co-parenting and all that!$6",
-"TwoKids_2": "I never really imagined that I'd have a family of my own…$l#$b# I'm so grateful for what we've built together!$9",
+"TwoKids_1": "It's going to be bathtime soon for these two...#$b#You'll help me wrangle them, right? Co-parenting and all that!$6",
+"TwoKids_2": "I never really imagined that I'd have a family of my own...$l#$b# I'm so grateful for what we've built together!$9",
 "TwoKids_3": "Ahhh. I just love you, %kid1 and %kid2.$l#$b#You all are the best gift the universe gave me. Well except for the gift of me of course! Haha!$h",
 
 
@@ -102,11 +102,11 @@
 "Good_2": "Are we really married? Am I really Mrs. @?? It all feels so surreal!$9#$e#I never even thought I'd see another altar after what happened but look at us now!$h",
 "Good_3": "Wow, you look really handsome today! ^Wow, you look beautiful today.$l#$b#Getting married to you was such a surprise. I can't believe that I'd find love again!$9",
 "Good_4": "I never imagined that I'd be happy with someone other than myself.$l#$b#I'm glad that it's you after all babe.$h",
-"Good_5": "Ms. Lenny congratulated me earlier on our nuptials!$h#$e#She said she wants to be a godmother and gave me a very obvious wink and a nudge… kind of ridiculous, huh?$u",
+"Good_5": "Ms. Lenny congratulated me earlier on our nuptials!$h#$e#She said she wants to be a godmother and gave me a very obvious wink and a nudge... kind of ridiculous, huh?$u",
 "Good_6": "Hey babe! Oh you're going out today?#$b#Could you bring back some takeout for dinner?",
 "Good_7": "When I got my heart broken, I'd never be able to trust anyone else.$l#$b#Thanks for being patient with me @.$9",
 "Good_8": "Awwee thank you for caring for me babe! When you get sick I'll take care of you!$7#$e#But please don't get sick??? I'm terrible at that kind of stuff.$u#$b#Haha but I'll try for you.$h", 
-"Good_9": "This. This is the life. Thank you so much. I know I don't say this often… But I really love you so much.",
+"Good_9": "This. This is the life. Thank you so much. I know I don't say this often... But I really love you so much.",
 
 
 ///Neutral

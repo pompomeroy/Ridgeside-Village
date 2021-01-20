@@ -15,7 +15,7 @@
 	"fall_26": "Ahh, I don't want to wear a costume.$s#$b#Can I just wear my concert dress instead?$7",
 
 ///Winter
-	"winter_1": "I actually found the winter a little hard to appreciate before.#$b#I was looking for different reasons to like it at first…$u#$e#You actually gave me a reason to love it, ha ha.$h#$b#",
+	"winter_1": "I actually found the winter a little hard to appreciate before.#$b#I was looking for different reasons to like it at first...$u#$e#You actually gave me a reason to love it, ha ha.$h#$b#",
 	"winter_7": "A lot of people are going to get together tomorrow, stick with me okay?$l",
 	"winter_14": "Can we buy some more farming materials?$I#$b#I have some ideas for the farm that I think will make it even prettier.$h",
 	"winter_15": "I bought some exotic seeds. I can't wait to plant them next season!$h",
@@ -43,7 +43,7 @@
 "Rainy_Night_1": "Darling! You're back! How was your day?$h#$b#I had an eventful day today.$h#$e#But I'm glad I'm home with you!$l ",
 "Rainy_Night_2": "I cooked dinner for you baby!$h#$b#I hope you like it!$l#$b#Auntie Olga taught me an old recipe. She says that she got it from her great grandmother and she's passing it on to me.#$b#I hope I did a good job making my own twist in it.$l",
 "Rainy_Night_3": " You must be tired baby, come. Change your clothes and climb on the bed with me$h#$b#I'm going to sing you a lullaby to help you sleep.$6",
-"Rainy_Night_4": " The rain's been pretty vocal today.#$b#Hmmm… maybe if I sing it'll calm the rain down$6#$b#Hahaha any excuse just to sing, I know. Sorry.$l ",
+"Rainy_Night_4": " The rain's been pretty vocal today.#$b#Hmmm... maybe if I sing it'll calm the rain down$6#$b#Hahaha any excuse just to sing, I know. Sorry.$l ",
 "Rainy_Night_5": "~Rain rain, go away~$6#$b# Oh welcome home baby!$h#$b#Were you good today?",
 "Rainy_Night_Spouse": "~When life gives you rainy days, go out and play to make the bad days go away~$6#$e#Come here baby, give me a hug and a kiss please?#$b#%Alissa pouts her cute little lips.",
 
@@ -51,7 +51,7 @@
 "Indoor_Day_0": " Good morning baby! I feel so energized today! I was able to write 3 verses for my new song$h#$b#Ahh it's such a joy to be so carefree and in love.$l ",
 "Indoor_Day_1": "I'd love to redecorate the bathroom soon.$u#$b#I spend a lot of time in there, since the acoustics are so good, and I can't help but notice everything I want to change.$l",
 "Indoor_Day_2": "Kenneth asked me if I'd ever considered recording something.$u#$b#I don't know! What do you think?$l",
-"Indoor_Day_3": "I can't figure out how to finish this line...$u#$e#Can you give me some words that rhyme with ‘light'?#$b#Whatever pops into your head! I'm just brainstorming.$l",
+"Indoor_Day_3": "I can't figure out how to finish this line...$u#$e#Can you give me some words that rhyme with 'light'?#$b#Whatever pops into your head! I'm just brainstorming.$l",
 "Indoor_Day_4": "Have a great day, baby! And bring me some of Pika's special today please!$u#$b#I'm having some cravings for it.$l",
 "Indoor_Day_Alissa": "~Rise and shine~$6#$b#Good morning, darling!$h#$e#It's such a great way to start the morning with the person you love.$l#$b#I hope you won't get tired of seeing my face everyday though.$7",
 
@@ -94,7 +94,7 @@
 "Good_0": "Hey, you got some bit of dirt in your hair, come here.#$b#There! I'll never get tired of taking care of you.$l",
 "Good_1": "~Hmm hmm hm hmm...~$6#$b#I've got this melody in my ear and I can't seem to shake it. It must be a sign or something, right?$u",
 "Good_2": "~When the world is cold, you can have a hiding place you can go. In beneath my arms you are home.~$6#$b#Oh! Hi, darling!$h",
-"Good_3": "~I want to build you a ship, a vessel, that's as strong as you are free. So anytime you feel that you are going to that ‘place' in the sea, know that you're safe with me.~$6",
+"Good_3": "~I want to build you a ship, a vessel, that's as strong as you are free. So anytime you feel that you are going to that 'place' in the sea, know that you're safe with me.~$6",
 "Good_4": "I've been getting so inspired lately that I've been trying to put a new song together, but have too many melody lines in my brain!$h",
 "Good_5": "~Ohhhhh, I just wanna say every little thing I feel when I'm with you.~$6",
 "Good_6": "*Sigh* It feels so free and so light to be with you! My mind is actually at peace here.$h",
@@ -112,10 +112,10 @@
 "Neutral_6": "Hey, @, let's go over to Pika's!#$b#Keahi told me about an amazing new soup they have! I'm drooling thinking about it!$u",
 "Neutral_7": "Auntie Olga is going to teach me some more family recipes, okay?#$b#I'm going to go over there and maybe spend the night.",
 "Neutral_8": "I've been looking up ways to compost efficiently, so any leftovers we don't eat can go back to feed our farm!$h",
-"Neutral_9": "I keep finding myself running scales under my breath, which is kind of counterproductive…$s#$b#I guess I still get really nervous when it comes to singing.$7",
+"Neutral_9": "I keep finding myself running scales under my breath, which is kind of counterproductive...$s#$b#I guess I still get really nervous when it comes to singing.$7",
 
 ///Bad
-"Bad_0": "~With just a hint of pain, for the feeling that I get when you are gone… Is no match for this pain you're causing me.~$s",
+"Bad_0": "~With just a hint of pain, for the feeling that I get when you are gone... Is no match for this pain you're causing me.~$s",
 "Bad_1": "~Are you even human, or do you have a heart of stone?$6~#$b#Oh don't mind me, that was just a lyric from a new song.$s",
 "Bad_2": "~It's such an insult to human nature that someone like you is living and breathing.~$6#$b#Oh nothing. That was just a lyric I'm playing with, don't worry about it.$7",
 "Bad_3": "I thought you loved me.$s",
