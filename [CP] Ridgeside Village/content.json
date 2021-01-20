@@ -15,10 +15,16 @@
 			"Description": "Enable the chances of other NPCs to appear riding the Cable Car (Along with LASV, ES and SVE NPCs)"
 		},
 		
+		"EnableVillageMusic": {
+			"AllowValues": "true, false",
+			"Default": "true",
+			"Description": "Enable the custom music to play in Ridgeside Village"
+		},
+		
 		"PortraitType": {
 			"AllowValues": "Legacy, Official",
 			"Default": "Legacy",
-			"Description": "Change Portrait Type (Legacy by Rafseazz / Official by avislone)"
+			"Description": "Change Portrait Type (Legacy by Rafseazz / Official by avislone) Legacy/Official"
 		},
 		
 		"MaddieGlasses": {
@@ -505,6 +511,8 @@
 		"Target": "LooseSprites/RSVQuestBoard, LooseSprites/RSVNinjaBoard",
 		"FromFile": "assets/{{Target}}.png",
 	},
+	
+
 
 ],
 
