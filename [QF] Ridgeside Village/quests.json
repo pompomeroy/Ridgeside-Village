@@ -465,9 +465,9 @@
 	"Description": "Bats have been pestering around the hotel at night lately! They're stinking up the place! I need someone to slay a number of them in the mines so they stop coming.\n        -Richard.\n\n- 5000g on Delivery\n- Richard will be thankful",
 	"Objective": "Slay 20 Bats",
 	"DaysLeft": 0,
-	"Reward": 5000,
+	"Reward": 1000,
 	"RewardType": "Money",
-	"RewardDescription": "5000g",
+	"RewardDescription": "1000g",
 	"Cancelable": true,
 	"Trigger": "Bat 20 Richard",
 	"FriendshipGain": { "Richard": 25 },
@@ -599,16 +599,16 @@
 	},
 	
 	//Minecarft Restoration
-	  //Wood x 50
+	  //Wood x 200
 	{
     "Name": "lenny_minecart1", 
     "Type": "ItemDelivery", 
     "Title": "Ridge Minecart Restoration!",
     "Description": "Lenny has given you details of materials needed to fix the minecart.",
-    "Objective": "Deliver 50 Wood to Lenny",
+    "Objective": "Deliver 200 Wood to Lenny",
     "DaysLeft": 0, 	
     "Cancelable": false, 
-    "Trigger": "Lenny 388 50", 
+    "Trigger": "Lenny 388 200", 
     "ReactionText": "These would be enough @! Great job! Now here's the next list of materials.",
 	"NextQuests": [ "lenny_minecart2" ]
     },
