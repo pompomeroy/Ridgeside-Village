@@ -20,7 +20,7 @@
 	"winter_1": "Brr! I wonder if the lake freezes over enough for ice skating?#$b#I've never tried it!$6",
 	"winter_7": "The Ice Festival makes me think about The Nutcracker Ballet.$6#$b#I always wanted to be the Sugar Plum Fairy...$7",
 	"winter_14": "Do you know what you'll buy at the market tomorrow?#$e#I'm keeping an eye out for some new silk ribbons!#$b#You just can't buy them online.$a",
-	"winter_15": "I hope someone is selling ribbons.$6#$e#If not I'll have to do without, or plan a trip into the city…$6No, I'd rather just do without.$s",
+	"winter_15": "I hope someone is selling ribbons.$6#$e#If not I'll have to do without, or plan a trip into the city...$6No, I'd rather just do without.$s",
 	"winter_16": "The elegance of the mermaids is truly otherworldly.$l#$b#If you haven't seen the show yet, what are you waiting for?",
 	"winter_17": "Lupini asked if he could paint me.$u#$e#I was surprised at the offer, but I couldn't say no!$l#$b#His rococo style is unparalleled!",
 	"winter_24": "I hope this yuletide season brings you joy as much as the Winter Star treats bring me happiness!$h#$b#Have a wonderful new year, @!$h",
@@ -79,7 +79,7 @@
 	"Tue10": "Hello love, how was your day? Would you like to meet me after work?#$b#Let's go on a date.$h",
 	"Wed10": "I'm rather of bored and stressed. I want to go release some tension and dance a bit.$6#$b#Care to join me, love? Take a risk! I'm sure I can teach you a thing or two.$h",
 	"Thu10": "Corine asked about our relationship the other day. She was curious about how we ended up together.$h#$b#I can't quite remember the story in detail. It was all a delightful blur.$l",
-	"Fri10": "Can we go to your farm? It's incredibly… what's the word? Not peaceful. Tranquil? Hmm…$6#$b#Comforting! That's it!$h",
+	"Fri10": "Can we go to your farm? It's incredibly... what's the word? Not peaceful. Tranquil? Hmm...$6#$b#Comforting! That's it!$h",
 	"Sat10": "I finally figured out a name for what you and dance have in common, for me: both feel like home.$l",
 	"Sun10": "How does a picnic and a bottle of something sparkling sound?#$e#Champagne would be wonderful, but to be honest, I'd be fine with some sparkling water, as long as you're there.$l",
 	
@@ -87,7 +87,7 @@
 
 
 //Special Dialogue
-"breakUp": "I apologize for doing this… But I don't think things will work out between us.$6",
+"breakUp": "I apologize for doing this... But I don't think things will work out between us.$6",
 "danceRejection": "Oh dear, I'm sorry but I have to decline.$6",
 "divorced": "What you did to me is unacceptable!$a#$b#You're not worth my time so please stop wasting it!$a",
 

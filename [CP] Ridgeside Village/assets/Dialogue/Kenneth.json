@@ -89,7 +89,7 @@
 
 //Special Dialogue
 "breakUp": "Did I do something wrong, @? I didn't think it would come to this.$s",
-"danceRejection": "Oh, no. I'm not much of a dancer…$6",
+"danceRejection": "Oh, no. I'm not much of a dancer...$6",
 "divorced": "Doesn't matter how many times you try to mend two wires, the outcome is always a blown fuse.$s",
 
 
@@ -104,7 +104,7 @@
 	"Resort_Umbrella_3": "Finally, some time to relax.$h#$b#If I had to repair machines for one more day, I think I might go crazy!$6",
 	"Resort_Wander": "I know some people who would want to go exploring the interior of the island.#$b#As for me? I'm fine right here! I'm NOT getting abducted by pirates today, no thank you!$6",
 	"Resort_Bar": "Oh, I'm just having a fruit punch. I don't really care much for alcohol.$h",
-	"Resort": "I bet there's all sorts of hidden treasures here.$h#$b#I'd love to collect a few, but who knows what lurks in that jungle…$6",
+	"Resort": "I bet there's all sorts of hidden treasures here.$h#$b#I'd love to collect a few, but who knows what lurks in that jungle...$6",
 
 
 }

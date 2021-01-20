@@ -14,14 +14,14 @@
 //Fall
 	"fall_1": "Fall is the season of leaves.#$b#Leaves everywhere, and nobody ever wants to clean up.$a#$e#I'm thankful for the cooler weather, though.$8",
 	"fall_15": "The fair exhausts my social battery pretty quickly, but even I can't deny that there are some neat things for sale.$8#$b#Are you planning on setting up a grange display?",
-	"fall_26": "Lenny tells me that we ought to wear a costume tomorrow.#$b#I'll just dress up as Mr. Aguar's lab assistant, then…$7",
+	"fall_26": "Lenny tells me that we ought to wear a costume tomorrow.#$b#I'll just dress up as Mr. Aguar's lab assistant, then...$7",
 
 //Winter
 	"winter_1": "You ought to stay inside more this season.#$e#If you're out and about as much as you usually are, you'll probably get a cold.$7",
 	"winter_7": "Usually I don't mind the festivals, but I really don't understand the point of tomorrow's festival.$a#$e#Fishing in the middle of an ice cold forest isn't exactly my cup of tea.$a",
 	"winter_14": "I don't want to go to the festival tomorrow, but Mr. Aguar needs a companion.#$b#He sometimes forgets to take his meds at night.$7",
 	"winter_15": "I hope that old man doesn't exhaust himself too much at the night market.$s#$b#Sometimes he forgets he's ancient.",
-	"winter_16": "Hmmm… I do hope I can find a nice pair of glasses tomorrow.$7#$b#I really need a new pair, the one I have on is getting blurry.$s",
+	"winter_16": "Hmmm... I do hope I can find a nice pair of glasses tomorrow.$7#$b#I really need a new pair, the one I have on is getting blurry.$s",
 	"winter_17": "The amount of people here is starting to stress me out.$a",
 	"winter_24": "Even a cranky lady like me can find joy in the Feast of the Winter Star.$9#$b#If I didn't show gratitude every once in a while, I'd be absolutely miserable!$h",
 
@@ -54,7 +54,7 @@
 	"Thu4": "Unraveling the mysteries of science is hard work.$8#$b#I find it rewarding, though.$l",
 	"Fri4": "Hello @! We're a little busy here today.#$b#If you need anything just write it down on a slip of paper and I'll get to it.$h",
 	"Sat4": "OH NO! I forgot to feed the fishes!!$uMr. Aguar's going to throw a fit for sure.$s",
-	"Sun4": "Abiotic factors are non-living components that… Oh I didn't see you there, @.$u#$b#What's up?$h",
+	"Sun4": "Abiotic factors are non-living components that... Oh I didn't see you there, @.$u#$b#What's up?$h",
 	
 	//6 Hearts
 	"Mon6": "Hello @, nice day isn't it? It's the first time in a while that I've felt a little free.$h#$b#I'm kind of glad that Lenny visited me. She brought me a doll to add to my collection.$h",
@@ -89,20 +89,20 @@
 //Special Dialogue
 "breakUp": "I'm sorry. It's not me, it's you. Bye.$7",
 "danceRejection": "Ugh I don't do dances, it's just a waste of energy.$7",
-"divorced": "Hah! What happened to ‘Till death do us part?'$a#$e#You lied through your teeth this entire time.$a#$b#Just my luck.$s", 
+"divorced": "Hah! What happened to 'Till death do us part?'$a#$e#You lied through your teeth this entire time.$a#$b#Just my luck.$s", 
 
 
 //Resort
 	"Resort_Entering": "So this is Ginger Island?#$b#It's nothing impressive. Might as well gather some water samples before I take a dip or maybe I'll look for a nice spot to relax.$7",
-	"Resort_Leaving": "I… I kind of had fun today.$l#$e#I mean, working all the time has been a hobby of mine.#$b#I forgot that taking a break every once in a while is refreshing.$h",
-	"Resort_Leaving_2": "I think I'd like to go back here again…#$b#Maybe when I'm done with everything I have to do at the lab. Haha!$h",
+	"Resort_Leaving": "I... I kind of had fun today.$l#$e#I mean, working all the time has been a hobby of mine.#$b#I forgot that taking a break every once in a while is refreshing.$h",
+	"Resort_Leaving_2": "I think I'd like to go back here again...#$b#Maybe when I'm done with everything I have to do at the lab. Haha!$h",
 	"Resort_Shore": "It's kind of nice, isn't it? Just being away from it all.#$e#I don't think my head's ever felt this clear in a while.$h",
 	"Resort_Shore_2": "I want to let go and be like the waves sometimes, just go with the flow. You know that feeling?$l",
 	"Resort_Umbrella": "The sun is so bright here, I feel like my skin's burning up!$a#$b#Good thing there's a spot under this umbrella.$7",
 	"Resort_Umbrella_2": "You must bring sunscreen to protect your skin from the harmful rays of the sun.#$b#Excess sunlight may be good for your tan but not for your health.",
 	"Resort_Umbrella_3": "Yikes, people really do enjoy getting dirt on their body.$u#$b#Why would one lie on the sand and not on a mat or towel? Ew.$u",
 	"Resort_Wander": "I always wonder what it'd feel like to disappear and inhabit an island all on your own.$8#$b#Haha, I guess I'm kind of a lone wolf.$h",
-	"Resort_Bar": "I definitely NEED a drink!$6#$b#Hmm… I think I'll take the strongest one they've got!$6",
+	"Resort_Bar": "I definitely NEED a drink!$6#$b#Hmm... I think I'll take the strongest one they've got!$6",
 	"Resort": "I like this place. I'll have to come more often.$h",
 
 
