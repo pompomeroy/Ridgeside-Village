@@ -912,7 +912,7 @@
         "UniqueAreaID": "RSV RidgeForest Monsters Q1",
         "MapName": "RidgeForestQ1",
         "MinimumSpawnsPerDay": 100,
-        "MaximumSpawnsPerDay": 200,
+        "MaximumSpawnsPerDay": 100,
         "IncludeTerrainTypes": [
           "All"
         ],
@@ -925,7 +925,7 @@
           "EndTime": 2600,
           "MinimumTimeBetweenSpawns": 10,
           "MaximumSimultaneousSpawns": 100,
-          "OnlySpawnIfAPlayerIsPresent": true,
+          "OnlySpawnIfAPlayerIsPresent": false,
           "SpawnSound": ""
         },
         "ExtraConditions": {
@@ -1030,8 +1030,8 @@
         ],
         "UniqueAreaID": "RSV RidgeForest Monsters Q2",
         "MapName": "RidgeForestQ2",
-        "MinimumSpawnsPerDay": 100,
-        "MaximumSpawnsPerDay": 200,
+        "MinimumSpawnsPerDay": 110,
+        "MaximumSpawnsPerDay": 110,
         "IncludeTerrainTypes": [
           "All"
         ],
@@ -1044,7 +1044,7 @@
           "EndTime": 2600,
           "MinimumTimeBetweenSpawns": 10,
           "MaximumSimultaneousSpawns": 110,
-          "OnlySpawnIfAPlayerIsPresent": true,
+          "OnlySpawnIfAPlayerIsPresent": false,
           "SpawnSound": ""
         },
         "ExtraConditions": {
@@ -1149,8 +1149,8 @@
         ],
         "UniqueAreaID": "RSV RidgeForest Monsters Q3",
         "MapName": "RidgeForestQ3",
-        "MinimumSpawnsPerDay": 100,
-        "MaximumSpawnsPerDay": 200,
+        "MinimumSpawnsPerDay": 120,
+        "MaximumSpawnsPerDay": 120,
         "IncludeTerrainTypes": [
           "All"
         ],
@@ -1163,7 +1163,7 @@
           "EndTime": 2600,
           "MinimumTimeBetweenSpawns": 10,
           "MaximumSimultaneousSpawns": 120,
-          "OnlySpawnIfAPlayerIsPresent": true,
+          "OnlySpawnIfAPlayerIsPresent": false,
           "SpawnSound": ""
         },
         "ExtraConditions": {
@@ -1268,8 +1268,8 @@
         ],
         "UniqueAreaID": "RSV RidgeForest Monsters Q4",
         "MapName": "RidgeForestQ4",
-        "MinimumSpawnsPerDay": 100,
-        "MaximumSpawnsPerDay": 200,
+        "MinimumSpawnsPerDay": 130,
+        "MaximumSpawnsPerDay": 130,
         "IncludeTerrainTypes": [
           "All"
         ],
