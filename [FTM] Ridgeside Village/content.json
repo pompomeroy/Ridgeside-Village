@@ -870,7 +870,7 @@
           {
             "MonsterName": "wilderness golem",
             "Settings": {
-              "SpawnWeight": 4,
+              "SpawnWeight": 2,
               "RelatedSkill": "Combat",
               "Loot": [
                 "Spiritual Essence"
@@ -880,7 +880,7 @@
           {
             "MonsterName": "ghost",
             "Settings": {
-              "SpawnWeight": 2,
+              "SpawnWeight": 3,
               "HP": 100,
               "Damage": 30,
               "DodgeChance": 30,
@@ -894,7 +894,7 @@
           {
             "MonsterName": "ghost",
             "Settings": {
-              "SpawnWeight": 2,
+              "SpawnWeight": 3,
               "RelatedSkill": "Combat",
               "Loot": [
                 "Spiritual Essence"
@@ -904,15 +904,15 @@
           {
             "MonsterName": "green slime",
             "Settings": {
-              "SpawnWeight": 5,
+              "SpawnWeight": 2,
               "RelatedSkill": "Combat"
             }
           }
         ],
         "UniqueAreaID": "RSV RidgeForest Monsters Q1",
         "MapName": "RidgeForestQ1",
-        "MinimumSpawnsPerDay": 100,
-        "MaximumSpawnsPerDay": 100,
+        "MinimumSpawnsPerDay": 130,
+        "MaximumSpawnsPerDay": 130,
         "IncludeTerrainTypes": [
           "All"
         ],
@@ -924,7 +924,7 @@
           "StartTime": 600,
           "EndTime": 2600,
           "MinimumTimeBetweenSpawns": 10,
-          "MaximumSimultaneousSpawns": 100,
+          "MaximumSimultaneousSpawns": 130,
           "OnlySpawnIfAPlayerIsPresent": false,
           "SpawnSound": ""
         },
@@ -961,7 +961,7 @@
           {
             "MonsterName": "shadow brute",
             "Settings": {
-              "SpawnWeight": 1,
+              "SpawnWeight": 2,
               "HP": 1550,
               "Damage": 35,
               "DodgeChance": 10,
@@ -989,7 +989,7 @@
           {
             "MonsterName": "wilderness golem",
             "Settings": {
-              "SpawnWeight": 4,
+              "SpawnWeight": 1,
               "RelatedSkill": "Combat",
               "Loot": [
                 "Spiritual Essence"
@@ -999,7 +999,7 @@
           {
             "MonsterName": "ghost",
             "Settings": {
-              "SpawnWeight": 2,
+              "SpawnWeight": 3,
               "HP": 100,
               "Damage": 30,
               "DodgeChance": 30,
@@ -1013,7 +1013,7 @@
           {
             "MonsterName": "ghost",
             "Settings": {
-              "SpawnWeight": 2,
+              "SpawnWeight": 3,
               "RelatedSkill": "Combat",
               "Loot": [
                 "Spiritual Essence"
@@ -1023,15 +1023,15 @@
           {
             "MonsterName": "green slime",
             "Settings": {
-              "SpawnWeight": 5,
+              "SpawnWeight": 1,
               "RelatedSkill": "Combat"
             }
           }
         ],
         "UniqueAreaID": "RSV RidgeForest Monsters Q2",
         "MapName": "RidgeForestQ2",
-        "MinimumSpawnsPerDay": 110,
-        "MaximumSpawnsPerDay": 110,
+        "MinimumSpawnsPerDay": 150,
+        "MaximumSpawnsPerDay": 160,
         "IncludeTerrainTypes": [
           "All"
         ],
@@ -1043,7 +1043,7 @@
           "StartTime": 600,
           "EndTime": 2600,
           "MinimumTimeBetweenSpawns": 10,
-          "MaximumSimultaneousSpawns": 110,
+          "MaximumSimultaneousSpawns": 150,
           "OnlySpawnIfAPlayerIsPresent": false,
           "SpawnSound": ""
         },
@@ -1066,7 +1066,7 @@
           {
             "MonsterName": "shadow brute",
             "Settings": {
-              "SpawnWeight": 2,
+              "SpawnWeight": 3,
               "HP": 1000,
               "Damage": 20,
               "DodgeChance": 10,
@@ -1080,7 +1080,7 @@
           {
             "MonsterName": "shadow brute",
             "Settings": {
-              "SpawnWeight": 1,
+              "SpawnWeight": 2,
               "HP": 1550,
               "Damage": 35,
               "DodgeChance": 10,
@@ -1108,7 +1108,7 @@
           {
             "MonsterName": "wilderness golem",
             "Settings": {
-              "SpawnWeight": 4,
+              "SpawnWeight": 1,
               "RelatedSkill": "Combat",
               "Loot": [
                 "Spiritual Essence"
@@ -1118,7 +1118,7 @@
           {
             "MonsterName": "ghost",
             "Settings": {
-              "SpawnWeight": 3,
+              "SpawnWeight": 4,
               "HP": 100,
               "Damage": 30,
               "DodgeChance": 30,
@@ -1142,15 +1142,15 @@
           {
             "MonsterName": "green slime",
             "Settings": {
-              "SpawnWeight": 5,
+              "SpawnWeight": 2,
               "RelatedSkill": "Combat"
             }
           }
         ],
         "UniqueAreaID": "RSV RidgeForest Monsters Q3",
         "MapName": "RidgeForestQ3",
-        "MinimumSpawnsPerDay": 120,
-        "MaximumSpawnsPerDay": 120,
+        "MinimumSpawnsPerDay": 170,
+        "MaximumSpawnsPerDay": 170,
         "IncludeTerrainTypes": [
           "All"
         ],
@@ -1162,7 +1162,7 @@
           "StartTime": 600,
           "EndTime": 2600,
           "MinimumTimeBetweenSpawns": 10,
-          "MaximumSimultaneousSpawns": 120,
+          "MaximumSimultaneousSpawns": 170,
           "OnlySpawnIfAPlayerIsPresent": false,
           "SpawnSound": ""
         },
@@ -1185,7 +1185,7 @@
           {
             "MonsterName": "shadow brute",
             "Settings": {
-              "SpawnWeight": 2,
+              "SpawnWeight": 3,
               "HP": 1000,
               "Damage": 20,
               "DodgeChance": 10,
@@ -1199,7 +1199,7 @@
           {
             "MonsterName": "shadow brute",
             "Settings": {
-              "SpawnWeight": 1,
+              "SpawnWeight": 3,
               "HP": 1550,
               "Damage": 35,
               "DodgeChance": 10,
@@ -1213,7 +1213,7 @@
           {
             "MonsterName": "shadow brute",
             "Settings": {
-              "SpawnWeight": 1,
+              "SpawnWeight": 2,
               "HP": 2000,
               "Damage": 65,
               "DodgeChance": 10,
@@ -1227,7 +1227,7 @@
           {
             "MonsterName": "wilderness golem",
             "Settings": {
-              "SpawnWeight": 4,
+              "SpawnWeight": 1,
               "RelatedSkill": "Combat",
               "Loot": [
                 "Spiritual Essence"
@@ -1251,7 +1251,7 @@
           {
             "MonsterName": "ghost",
             "Settings": {
-              "SpawnWeight": 3,
+              "SpawnWeight": 2,
               "RelatedSkill": "Combat",
               "Loot": [
                 "Spiritual Essence"
@@ -1268,8 +1268,8 @@
         ],
         "UniqueAreaID": "RSV RidgeForest Monsters Q4",
         "MapName": "RidgeForestQ4",
-        "MinimumSpawnsPerDay": 130,
-        "MaximumSpawnsPerDay": 130,
+        "MinimumSpawnsPerDay": 190,
+        "MaximumSpawnsPerDay": 190,
         "IncludeTerrainTypes": [
           "All"
         ],
@@ -1281,8 +1281,8 @@
           "StartTime": 600,
           "EndTime": 2600,
           "MinimumTimeBetweenSpawns": 10,
-          "MaximumSimultaneousSpawns": 130,
-          "OnlySpawnIfAPlayerIsPresent": true,
+          "MaximumSimultaneousSpawns": 190,
+          "OnlySpawnIfAPlayerIsPresent": false,
           "SpawnSound": ""
         },
         "ExtraConditions": {
