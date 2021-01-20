@@ -406,6 +406,13 @@
       ]
     },
 	{
+      "name": "RSVHiddenWarp2",
+      "file": "assets/RSVHiddenWarp2.tbin",
+	        "addWarps": [
+        "11 1 Ridge 70 33"
+      ]
+    },
+	{
       "name": "RSVMinecart",
       "file": "assets/RSVMinecart.tbin",
 	        "addWarps": [
