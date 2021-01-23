@@ -29,12 +29,12 @@
 //Days of the Week
 
 	//0 Hearts
-	"Mon": "Oh. Um.. Hello?",
-	"Tue": "Uh! Hi!.. ..Excuse me...",
+	"Mon": "Oh. Um... Hello?",
+	"Tue": "Uh! Hi... #$e#...Excuse me...",
 	"Wed": "It's... It's a good day... er, I mean, having a good day?$s",
-	"Thu": "I... Um... You're @, correct? I'm sorry, I'm not good with names...$s",
+	"Thu": "I... Um... #$e#You're @, correct? I'm sorry, I'm not good with names...$s",
 	"Fri": "Oh! Hi!",
-	"Sat": "Huh?... You seem to have a lot of time in your hands...#$b# Oh I didn't mean to be rude! I just... $u#$b#Because you stopped by to say hi, that's all...$s",
+	"Sat": "Huh?... #$e#You seem to have a lot of time in your hands...#$b# Oh I didn't mean to be rude! I just... $u#$b#Because you stopped by to say hi, that's all...$s",
 	"Sun": "Hello.",
 	
 	//2 Hearts
@@ -61,7 +61,7 @@
 	"Wed6": "I try to assist Penny when she's teaching the children, but I'm much better one-on-one than with a group, so I mostly end up reminding the kids to listen to her. #$b#She's really good at staying patient and going at their pace.$h",
 	"Thu6": "Oh, hi @! How are you doing today? $h#$b#I accidentally had too much coffee this morning, and I can feel the dopamine running laps in my brain. $h#$b#I'm going to crash really hard in a bit, though...",
 	"Fri6": "Pierre and Caroline have a really interesting relationship. #$b#I want to speak up when I see things, but they didn't ask for advice from me as a friend or as a therapist so I can't say anything.#$b#It'd be unethical.",
-	"Sat6": "My original plan was to go straight from my graduate program to inpatient work with young adults, but...#$b# well,  plans rarely work out the way you think they will. #$b# I ended up here. I miss the city sometimes, but it's much more peaceful out here, and still really fulfilling.",
+	"Sat6": "My original plan was to go straight from my graduate program to inpatient work with young adults, but...#$b# Well,  plans rarely work out the way you think they will. #$b# I ended up here. I miss the city sometimes, but it's much more peaceful out here, and still really fulfilling.",
 	"Sun6": "I just noticed how almost no one out here has a car. #$b#It seems so normal to walk everywhere that I didn't even think about long-distance transportation until I started trying to figure out how to increase sample population sizes for a potential study... $s",
 	
 	//8 Hearts

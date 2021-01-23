@@ -17,7 +17,7 @@
 	"Tue": "Hello sir.^Hello ma'am.#$e#Do you need anything?",
 	"Wed": "Hello sir.^Hello ma'am. How's your week been so far?",
 	"Thu": "Hello sir.^Hello ma'am.#$b#Doing well?#$e# Remember to stretch regularly. It'll decrease the chances of straining something.",
-	"Fri": "Vastus Medialis muscle originates from the proximal medial part of the femur...#$e#%Philip is talking to himself under his breath. Better leave him alone.",
+	"Fri": "Vastus Medialis muscle originates from the proximal medial part of the femur...#$b#%Philip is talking to himself under his breath. Better leave him alone.",
 	"Sat": "Hello sir.^Hello ma'am.#$b#We made it to the weekend$h!",
 	"Sun": "Hello sir.^Hello ma'am. #$b# Hope you're doing well. Need anything?",
 	
